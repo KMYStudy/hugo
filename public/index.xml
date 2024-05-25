@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Jan 2024 07:07:07 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>Introduction 🔗This is bold text, and this is emphasized text.&#xA;Visit the Hugo website!&#xA;Header 1 🔗Header 2 🔗Header 3 🔗Header 4 🔗Header 5 🔗Header 6 🔗A short description&#xA;import sys print(&amp;#39;hello&amp;#39;) sys.exit() Exemplo 1 Exemplo 2 Exemplo 3 Exemplo 1 Exemplo 2 Exemplo 3 Bold&#xA;Italic&#xA;Strike&#xA;Link&#xA;PDF Preview&#xA;Microsoft&#xA;Hello world&#xA;TODO 1 TODO 2 TODO 3 Citation&#xA;Inline code&#xA;col1 col2 col3 row row row row row row This math equation #1:</description>
+    </item>
+  </channel>
+</rss>

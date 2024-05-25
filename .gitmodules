@@ -1,0 +1,12 @@
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "themes/mini"]
+	path = themes/mini
+	url = https://github.com/nodejh/hugo-theme-mini.git
+[submodule "themes/github-style"]
+	path = themes/github-style
+	url = https://github.com/MeiK2333/github-style.git
+[submodule "themes/hugo-theme-monochrome"]
+	path = themes/hugo-theme-monochrome
+	url = https://github.com/kaiiiz/hugo-theme-monochrome.git
