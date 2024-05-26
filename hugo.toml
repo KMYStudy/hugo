@@ -1,6 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://kremilly.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Kremilly'
 theme = 'mini'
 markdown = 'kramdown'
 
@@ -8,3 +8,7 @@ markdown = 'kramdown'
 math = true
 showToc = true
 enableComments = true
+
+[social]
+github = "https://github.com/kremilly"
+twitter = "https://twitter.com/import_kremilly"
